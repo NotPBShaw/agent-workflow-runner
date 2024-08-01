@@ -1,6 +1,8 @@
-# ai-agent-workflow-runner
+# Agent Workflow Runner
 
-![CI](https://github.com/TryKosm/ai-agent-workflow-runner/actions/workflows/ci.yml/badge.svg)
+Run AI agent task plans with retries and structured output.
+
+![CI](https://github.com/TryKosm/agent-workflow-runner/actions/workflows/ci.yml/badge.svg)
 
 Python workflow runner for AI-agent style task execution with retries, dependency ordering, and run reports.
 
